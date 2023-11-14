@@ -1,0 +1,10 @@
+instance type should be configurable
+instance EBS volume size should be configurable
+mount the EBS volume
+upload a python program to the EC2 instance
+run the program at the instance creation
+Python program should basically create a file, Write the following data 1 to 100 numbers in the file
+this EC2 should be in private subnet
+Add tags to the ec2 instance
+Create s3 bucket
+Provide list permission to the ec2 instance on the s3 bucket

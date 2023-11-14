@@ -1,0 +1,4 @@
+config:
+  apple-assignment:ebs_volume_size: "10"
+  apple-assignment:instance_type: t2.micro
+  aws:region: us-east-1
